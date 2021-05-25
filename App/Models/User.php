@@ -8,4 +8,5 @@ class User
 {
     public $phone;
     public $email;
+    public $deviceId;
 }
